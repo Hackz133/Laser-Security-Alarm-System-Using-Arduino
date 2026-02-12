@@ -43,6 +43,13 @@ Group Academic Project
 - Implemented intrusion detection logic
 - Testing and debugging of the system
 
+## Pin Connections
+- Laser Module → Digital Pin 7
+- LDR Sensor → Analog Pin A0
+- Buzzer → Digital Pin 8
+- Power → 5V and GND
+
+
 ## Project Images
 
 ### Project Setup
